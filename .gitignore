@@ -1,0 +1,3 @@
+# Ignore user-provided cat sprite sheets and other binary art assets
+assets/images/*
+!assets/images/README.md
